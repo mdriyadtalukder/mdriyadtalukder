@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 💬 Ask me about **C++, C#, Python, Java, JavaScript, DSA, OOP, DBMS, SQL, .NET, ASP.NET, Django, MERN**
+- 💬 Ask me about **C++, C#, Python, Java, JavaScript, TypeScript, DSA, OOP, DBMS, SQL, .NET, ASP.NET, Django, MERN**
 - 📫 Reach me at **mdriyadtalukder.cse@gmail.com**
 
 <!--
